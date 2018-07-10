@@ -8,7 +8,7 @@ def breakfast_food(food="Frosted Flakes")
   puts "Morning is the best time for #{food}!"
 end
 
-meal_choice.rb
+breakfast_food
 
 def lunch_food(food="Grilled Cheese")
   "Lunch is the best time for #{food}!"
