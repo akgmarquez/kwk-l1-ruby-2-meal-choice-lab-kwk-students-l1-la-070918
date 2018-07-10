@@ -11,12 +11,13 @@ end
 meal_choice("frosted flakes")
 
 def meal_choice(food="grilled cheese")
-  "Lunch is the best time for #{food}!"
+  puts "Lunch is the best time for #{food}!"
 end
 
 meal_choice("grilled cheese")
 
-
+def meal_choice(food="salmon")
+  puts "Dinner"
 
 
 
