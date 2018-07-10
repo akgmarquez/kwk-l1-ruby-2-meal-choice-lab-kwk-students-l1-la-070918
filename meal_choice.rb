@@ -14,13 +14,13 @@ def meal_choice(food="Grilled Cheese")
   puts "Lunch is the best time for #{food}!"
 end
 
-meal_choice("Grilled Cheese")
+meal_choice("Pancakes")
 
 def meal_choice(food="Salmon")
   puts "Dinner is the best time for #{food}!"
 end
 
-meal_choice("Salmon")
+meal_choice("Pasta")
 
 
 # Call the methods with puts and your own arguments here. Like this:
