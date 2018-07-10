@@ -8,13 +8,15 @@ def meal_choice.rb(food="Frosted Flakes")
   puts "Morning is the best time for #{food}!"
 end
 
-meal_choice.rb("Frosted Flakes")
+meal_choice("Frosted Flakes")
 
-def meal_choice.rb(food="Grilled Cheese")
+def meal_choice(food="Grilled Cheese")
   "Lunch is the best time for #{food}!"
 end
 
-meal_choice.rb("Pizza")
+meal_choice("Pizza")
+
+
 
 
 
