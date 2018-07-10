@@ -15,7 +15,7 @@ def dinner(food="salmon")
   puts "Dinner is the best time for #{food}!"
 end
 
-puts snacks("candy")
+  puts snacks("candy")
 puts breakfast("cheerios")
 puts lunch("pizza")
 puts dinner("pasta")
