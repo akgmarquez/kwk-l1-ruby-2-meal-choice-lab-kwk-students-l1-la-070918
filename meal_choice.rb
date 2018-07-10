@@ -10,7 +10,11 @@ end
 
 meal_choice.rb
 
-def
+def lunch(food="Grilled Cheese")
+  "Lunch is the best time for #{food}!"
+end
+
+meal_choice.rb
 
 
 
