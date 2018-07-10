@@ -17,8 +17,10 @@ end
 meal_choice("grilled cheese")
 
 def meal_choice(food="salmon")
-  puts "Dinner"
+  puts "Dinner is the best time for #{food}!"
+end
 
+meal_choice("salmon")
 
 
 # Call the methods with puts and your own arguments here. Like this:
