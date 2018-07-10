@@ -10,11 +10,11 @@ end
 
 meal_choice("frosted flakes")
 
-def meal_choice(food="Grilled Cheese")
+def meal_choice(food="grilled cheese")
   "Lunch is the best time for #{food}!"
 end
 
-meal_choice("Pizza")
+meal_choice("pizza")
 
 
 
