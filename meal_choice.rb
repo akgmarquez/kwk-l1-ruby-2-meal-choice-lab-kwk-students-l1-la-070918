@@ -8,13 +8,13 @@ def meal_choice(food="Frosted Flakes")
   puts "Morning is the best time for #{food}!"
 end
 
-meal_choice("Frosted Flakes")
+meal_choice("Breakfast")
 
 def meal_choice(food="Grilled Cheese")
   puts "Lunch is the best time for #{food}!"
 end
 
-meal_choice("Pancakes")
+meal_choice("Burgers")
 
 def meal_choice(food="Salmon")
   puts "Dinner is the best time for #{food}!"
