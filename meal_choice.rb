@@ -21,10 +21,6 @@ end
   puts lunch("pizza")
   puts dinner("pasta")
 
-
-
-
-
 puts snacks
 puts breakfast
 puts lunch
