@@ -4,13 +4,13 @@ def snacks(food="Cheetos")
 end
 
 # Define breakfast, lunch and dinner methods that return the meal choice passed into them. If nothing is passed in, it shoud default to the foods on the readme (frosted flake, grilled cheese, salmon)
-def breakfast(food="Frosted Flakes")
+def breakfast_food(food="Frosted Flakes")
   puts "Morning is the best time for #{food}!"
 end
 
 meal_choice.rb
 
-def lunch(food="Grilled Cheese")
+def lunch_food(food="Grilled Cheese")
   "Lunch is the best time for #{food}!"
 end
 
