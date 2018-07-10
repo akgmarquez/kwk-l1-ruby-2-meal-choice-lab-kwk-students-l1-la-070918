@@ -14,7 +14,7 @@ def meal_choice(food="grilled cheese")
   "Lunch is the best time for #{food}!"
 end
 
-meal_choice("pizza")
+meal_choice("grilled cheese")
 
 
 
